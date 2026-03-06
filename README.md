@@ -11,9 +11,9 @@ This project analyzes retail sales data using Microsoft Excel.
 - Interactive slicers for filtering
 
 ## Tools Used
-Microsoft Excel
-Pivot Tables
-Excel Functions
-Data Visualization
+- Microsoft Excel
+- Pivot Tables
+- Excel Functions
+- Data Visualization
 
 ## Dashboard Preview
